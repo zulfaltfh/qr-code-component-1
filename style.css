@@ -77,3 +77,10 @@ body {
   font-family: 'Outfit', sans-serif;
   text-align: center;
 }
+
+h1 {
+  margin-top: 2rem;
+  color: var(--colour-neutral-800);
+  font-weight: var(--font-weight-bold);
+  font-size: var(--font-size-heading);
+}
