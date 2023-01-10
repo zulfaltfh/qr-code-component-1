@@ -61,3 +61,19 @@ button,
 select {
   font: inherit;
 }
+
+/********************************************
+ * GLOBAL STYLES
+ *******************************************/
+
+html,
+body {
+  display: grid;
+  place-content: center;
+  background-color: var(--colour-neutral-200);
+  color: var(--colour-neutral-300);
+  font-weight: var(--font-size-copy);
+  font-size: var(--font-size-copy);
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+}
