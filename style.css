@@ -14,6 +14,13 @@
   --colour-neutral-200: hsl(212, 45%, 89%);
   --colour-neutral-300: hsl(220, 15%, 55%);
   --colour-neutral-800: hsl(218, 44%, 22%);
+
+  /* Typography */
+  --font-weight-regular: 400;
+  --font-weight-bold: 700;
+
+  --font-size-heading: 1.25rem; /* 20px */
+  --font-size-copy: 0.9375rem; /* 15px */
 }
 
 /********************************************
