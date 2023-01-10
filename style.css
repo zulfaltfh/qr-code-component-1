@@ -84,3 +84,19 @@ h1 {
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-heading);
 }
+
+/********************************************
+ * QR COMPONENT
+ *******************************************/
+
+.qr-component {
+  max-width: 21.125rem;
+  padding: 1.125rem;
+  border-radius: 20px;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  background-color: var(--colour-neutral-100);
+}
+
+.qr-component img {
+  border-radius: 20px;
+}
